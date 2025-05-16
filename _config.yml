@@ -3,7 +3,7 @@
 
 title: Homepage
 description: Just for fun.
-baseurl: "/"
+baseurl: ""
 url: "https://yzhen-med.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
